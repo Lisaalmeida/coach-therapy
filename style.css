@@ -1,0 +1,106 @@
+
+
+.w3-jumbo{
+    font-size: 15px;
+    letter-spacing: -2px;
+    justify-content:space-between;
+}
+
+
+h3{
+    font-size: 15px;
+    letter-spacing: -2px;
+    justify-content:space-between;
+
+}
+
+h5{
+    font-size: 25px;
+    justify-content:space-between;
+
+}
+
+
+.foto-lisa{
+    width: 250px;
+    height: 250px;
+    border-radius: 150px;
+    border: 4px white solid;
+    align-items: center;
+
+}
+
+.minha-foto{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    border: 3px rgb(190, 78, 78) solid;
+    padding: 5px;
+}
+
+.w3-half{
+    width: 350px;
+    height: 200px;
+}
+
+.w3-xxxlarge{
+    font-size: 20px;
+}
+
+.subtitulo{
+    font-size: 20px;
+    color: rgb(63, 59, 59)
+}
+
+.subtitulo-one{
+    font-size: 20px;
+    color: rgb(63, 59, 59)
+}
+
+p{
+    text-align: justify;
+}
+
+
+.contato{
+    display: flex;
+}
+
+.agende{
+    display: flex;
+    justify-content: space-between;
+}
+
+.email{
+    display: flex;
+    justify-content: space-between;
+}
+
+.zap{
+    width: 30px;
+    margin-left: 3px;
+}
+
+button{
+    border: 10px white solid;
+    border-radius: 150px;
+    padding: 10px;
+    font-weight: bold;
+    background: rgb(8, 8, 8);
+    color: white;
+    font-size: 15px;
+    
+}
+
+.faleconosco{
+    font-size: 15px;
+    color: red;
+    font-weight: bold;
+}
+
+.faleconosco:hover{
+    background: yellow;
+}
+
+
+
